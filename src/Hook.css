@@ -1,0 +1,48 @@
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+.hook2{
+    
+    background-color:#f1f1f1
+}
+
+.container {
+    padding: 16px;
+    background-color: antiquewhite;
+    opacity: 0.8;
+  }
+  form {
+    border: 3px solid #f1f1f1;
+  }
+
+  input[type=text], input[type=password], input[type=email] {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    text-align: left;
+  }
+ .lable{
+    text-align: left;
+  }
+
+  button:hover {
+    opacity: 0.8;
+  }
+
+.img{
+    background-image: url(Ayushi.jpg);
+   background-position: center;
+   background-size: cover;
+   padding: 75px 0px;
+
+  }
+  
